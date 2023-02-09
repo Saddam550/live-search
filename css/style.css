@@ -1,0 +1,16 @@
+div#show {
+    background: #eaeaea;
+    width: 175px;
+    display:none;
+}
+
+
+
+pre:hover {
+	
+    background: silver;
+    padding: 4.2px 5.2px;
+}
+input#input {
+    color: rgb(38, 0, 255);
+}
